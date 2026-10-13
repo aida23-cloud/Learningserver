@@ -1,0 +1,6 @@
+{
+  "name": "VirtualServer Lab AI",
+  "description": "Platform interaktif belajar membangun server virtual Linux (Debian & Ubuntu) dengan simulator terminal, topologi visual, dan AI Tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
